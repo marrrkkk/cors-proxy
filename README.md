@@ -4,12 +4,6 @@ This is a simple CORS (Cross-Origin Resource Sharing) proxy built using Express.
 
 ## Getting Started
 
-For development purpose you can use my hosted proxy:
-```
-https://cors-proxy-3p5k.onrender.com/api?url=
-```
-or you can host your own
-
 ### Prerequisites
 - Node.js installed on your machine
 
